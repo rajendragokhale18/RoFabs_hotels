@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2024-07-03",
+      "date_to": "2024-11-02",
+      "rate": "401.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2024-11-02",
+      "date_to": "2025-03-07",
+      "rate": "501.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2025-03-07",
+      "date_to": "2025-07-10",
+      "rate": "601.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2025-07-10",
+      "date_to": "2025-11-16",
+      "rate": "701.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2024-07-03",
+      "date_to": "2024-11-02",
+      "rate": "402.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2024-11-02",
+      "date_to": "2025-03-07",
+      "rate": "502.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2025-03-07",
+      "date_to": "2025-07-10",
+      "rate": "602.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2025-07-10",
+      "date_to": "2025-11-16",
+      "rate": "702.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "max_stay": 3
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "max_stay": 4
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "min_stay": 3
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "min_stay": 1
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_arrival": true
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_departure": false
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "06191743-4e30-42af-af52-40155eca29f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "stop_sell": true
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "max_stay": 4
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "max_stay": 3
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "min_stay": 2
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_arrival": false
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_departure": true
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "c21464fe-d6d2-4558-b2a6-5b1f20946a29",
+      "date_from": "2024-07-04",
+      "date_to": "2025-11-16",
+      "stop_sell": false
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "rate": "4001.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "rate": "5001.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "rate": "4002.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "rate": "5002.00"
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "max_stay": 2
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "max_stay": 3
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "min_stay": 3
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "min_stay": 2
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_arrival": true
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_departure": false
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "38e6030a-0f8c-4f68-b97c-800bac378308",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "stop_sell": true
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "max_stay": 3
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "max_stay": 2
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-03-07",
+      "min_stay": 2
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2025-03-07",
+      "date_to": "2025-11-16",
+      "min_stay": 3
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_arrival": false
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "closed_to_departure": true
+    },
+    {
+      "property_id": "1d06cc66-61ef-4b13-b72d-ef9ed29b5e63",
+      "rate_plan_id": "ce44d13d-07d6-4ac4-b745-8ffe3f8706f7",
+      "date_from": "2024-07-03",
+      "date_to": "2025-11-16",
+      "stop_sell": false
+    }
+  ]
+}
